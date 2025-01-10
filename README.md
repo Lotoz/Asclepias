@@ -1,2 +1,2 @@
 # Asclepias
- Una aplicacion multiplataformas para llevar el ciclo mestrual con informacion incluida sobre el mismo.
+ Una aplicacion multiplataformas para anotar el ciclo mestrual con informacion incluida sobre el mismo.
